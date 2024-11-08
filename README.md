@@ -1,2 +1,4 @@
 # Walmart-Sales-Data-Analysis
-This project investigates Walmart sales data to identify top-performing branches and products
+This project investigates Walmart sales data to identify top-performing branches and productsanalyze sales trends across various products, and study customer behavior. The primary goal is to discover insights that could help improve and optimize sales strategies.the dataset, sourced from Kaggle's Walmart Sales Forecasting Competition, includes historical sales information for 45 Walmart stores across different regions. Each store comprises multiple departments, and the project involves forecasting sales for each department within each store. The dataset also features holiday markdown events, which significantly impact sales patterns, though predicting the affected departments and the level of impact presents a unique challenge.
+**Project Objectives**
+The main objective is to gain a deeper understanding of the factors that influence sales across different Walmart branches.
